@@ -3,5 +3,3 @@ def func(stroka):
         print("True")
     else:
         print("False")
-
-func("заказ")
